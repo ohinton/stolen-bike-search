@@ -1,0 +1,24 @@
+{
+  "name": "stolen-bike-app",
+  "description": "lists bikes that have been registered as stolen in a given location in the past week",
+  "main": "gulpfile.js",
+  "authors": [
+    "Olivia Hinton"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bike"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}
