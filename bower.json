@@ -9,7 +9,7 @@
   "keywords": [
     "bike"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/ohinton/stolen-bike-search",
   "ignore": [
     "**/.*",
     "node_modules",
