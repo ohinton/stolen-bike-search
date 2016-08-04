@@ -1,14 +1,29 @@
 $gray : #d3d3d3;
-$green : #75B975;
+$black: #000000;
 
 .box {
   background: $gray;
   border: 3px solid black;
+  border-radius: 5px;
   padding: 40px 80px;
   .button {
     font-weight: bold;
     text-align: center;
-    background: $green;
+    background: $black;
     color: white;
   }
+}
+
+.jumbotron {
+  display: flex;
+  justify-content: center;
+  background-image: url('/img/biketheif.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif !important;
 }
